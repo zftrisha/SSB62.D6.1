@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+	padding: 2;
+}
+header {
+
+	background-color: #3B5998; 
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+	padding-left: 90px;
+	padding-top: 10px;
+}
+	
+.form_control{
+	width: 45%;
+	float: right;
+	overflow: hidden;
+	padding: 20px;
+}
+
+.email{
+	width: 30%;
+	color: #FFFFFF;
+	float: left;
+	padding: 15px;
+	padding-right: 0;
+
+}
+.Password{
+	width: 30%;
+	color: #FFFFFF;
+	float: left;
+	padding: 15px;
+	padding-right: 0;
+}
+.button {
+	width: 10%;
+	float: left;	
+	padding: 15px 0;
+}
+.button button {
+	width: 90%;	
+	padding: 3px 0;
+	background-color: blue;
+	color: #FFFFFF;
+}
+.placeholder{
+	width: 400px;
+	padding: 20px 10px;
+	border-color: #bdc7d8;
+    border-radius: 5px;
+}
+.banner {
+	background-color: #EFF1F7;
+	width: 100%;
+	float: left;
+	overflow: hidden;
+}
+.banber.left {
+	width: 50%;
+	float: left;
+}
+.banber.left p{
+	font-size: 22px;
+	padding left: 100px; 
+	color: #0E385F;
+	
+}
+.banber.left img{
+	text-align: center;
+	padding: 50px 80px 300px 100px;
+}
+.banner.right{
+	width: 45%;
+	float: right;
+}
+.banner.right h2{
+	font-size: 38px;
+	color: #333333;
+}
+.banner.right p{
+	font-size: 20px;
+	color: #333333;
+}
+.bannertext{
+	padding left: 20px;
+	width: 85%;
+	float: right;
+}
+form input{
+	 padding: 6px 8px;
+}
+.button1 button{
+	background-color: #69A455;
+	color: #FFFFFF;
+	padding: 8px 42px;
+}
+
+.footer {
+	width: 80%;
+	height: 200px;
+	color: #5D58BB;
+	padding-left: 135px;
+	font-size: 13px;
+}
+.wrapper4 {
+}
+.newslater{
+	min-height: 400px;
+	background-color: #f0f0f0;
+	padding: 100px 0;
+}
+
+.signin {
+	text-align: center;
+}
+.signin h1{
+	margin-bottom: 80px;
+}
+.form_content{
+	width: 400px;
+	margin: 0 auto;
+	position: relative;
+}
+.form_content input{
+	border: none;
+	background: transparent;
+	border-bottom: 1px;
+	width: 35px; 
+}
+.form_content button {
+	border: none;
+	background: transparent;
+	position: absolute;
+	right: 24px;
+
+}
